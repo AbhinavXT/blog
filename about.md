@@ -1,7 +1,7 @@
 ---
 title: "About"
 tagline: "embedded systems engineer · competitive programmer · horror writer"
-socials: ["github:https://github.com/yourusername", "twitter:https://twitter.com/yourusername", "linkedin:https://linkedin.com/in/yourusername"]
+socials: ["github:https://github.com/AbhinavXT", "twitter:https://twitter.com/AbhinavXT", "linkedin:https://linkedin.com/in/abhinavpathak21"]
 ---
 
 Hey! I'm a software engineer who spends most of my time somewhere between low-level hardware registers and high-level system design.
@@ -11,7 +11,6 @@ Hey! I'm a software engineer who spends most of my time somewhere between low-le
 - **embedded systems** — bare-metal ARM, communication protocols, firmware architecture
 - **dsa & cp** — deep dives into algorithms and data structures, mostly in C++
 - **projects** — build logs and architecture decisions
-- **horror fiction** — short stories rooted in Pahadi and North Indian folklore
 
 ---
 
